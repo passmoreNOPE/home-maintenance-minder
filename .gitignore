@@ -3,7 +3,6 @@
 ################################################################################
 
 /CalendarEmailConsole/bin/Debug
-/CalendarEmailConsole/client_secret.json
 /CalendarEmailConsole/obj
 /.vs
 /packages
